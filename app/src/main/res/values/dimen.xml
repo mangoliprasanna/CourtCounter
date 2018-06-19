@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="score_board">175dp</dimen>
+    <dimen name="layout_weight">1</dimen>
+    <dimen name="team_txtSize">20sp</dimen>
+    <dimen name="team_score">50sp</dimen>
+    <dimen name="team_score_margin">25sp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="btn_margin">10dp</dimen>
+</resources>
