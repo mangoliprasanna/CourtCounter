@@ -9,4 +9,10 @@
     <string name="pt_3">+3 POINTS</string>
     <string name="pt_4">+4 POINTS</string>
     <string name="pt_6">+6 POINTS</string>
+    <string name="teamAScoreUpdate3">+3 POINTS for TEAM A</string>
+    <string name="teamBScoreUpdate3">+3 POINTS for TEAM B</string>
+    <string name="teamAScoreUpdate4">+4 POINTS for TEAM A</string>
+    <string name="teamBScoreUpdate4">+4 POINTS for TEAM B</string>
+    <string name="teamAScoreUpdate6">+6 POINTS for TEAM A</string>
+    <string name="teamBScoreUpdate6">+6 POINTS for TEAM B</string>
 </resources>
