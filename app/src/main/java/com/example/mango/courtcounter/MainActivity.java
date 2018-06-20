@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         btn4_b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                team_b_score += 3;
+                team_b_score += 4;
                 update.setText("+4 POINTS for TEAM B");
                 display();
             }
